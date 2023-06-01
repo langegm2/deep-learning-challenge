@@ -28,3 +28,6 @@ Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
   I tried to take away more columns for accuracy and keep the same level of epochs, I also tried to increase the amount of Hidden layers. I think that was useless in the end
   
+
+
+Consulted with Ta, class instructor and fellow Hw group classmates to help solve this this HW module. Also used a lot of searching for code and tips from multiple sources on the internet to understand and process this assignmnent.
